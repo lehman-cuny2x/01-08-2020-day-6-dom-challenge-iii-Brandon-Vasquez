@@ -11,4 +11,4 @@
  
  # 01-09-2020-Day-6-Summary
  
- Place youe 4-5 sentence daily summary here.
+ In this section I've learned how to fetch and exlpore promises. I've learned how to utilize an API (application program interface) and how to fetch it through javascript. I created a currency converter that calculates the value of one currency and coverts it to the value of another currency. You can select the currency of your choosing in the dropdown and input a figure that you want to convert in another currency of your choosing.   
